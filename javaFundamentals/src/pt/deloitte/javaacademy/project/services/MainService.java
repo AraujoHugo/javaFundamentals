@@ -5,8 +5,8 @@ import pt.deloitte.javaacademy.project.models.Manager;
 
 public class MainService {
 
-	Manager manager = new Manager();
+	Manager manager2 = new Manager();
 	
-	String managerName = manager.getName();
+	String managerName = manager2.getName();
 	
 }
